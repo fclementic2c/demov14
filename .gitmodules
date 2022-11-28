@@ -1,0 +1,4 @@
+[submodule "OCA/account-invoice-reporting"]
+	path = OCA/account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 14.0
